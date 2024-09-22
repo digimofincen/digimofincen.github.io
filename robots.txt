@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://digimofincen.github.io/sitemap.xml
